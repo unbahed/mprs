@@ -1,0 +1,9 @@
+[package]
+name = "mprs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.6"
+video-rs = "0.10.3"
+viuer = "0.9.1"
